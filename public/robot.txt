@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block private/system areas (if any exist)
+Disallow: /admin
+Disallow: /api/private
+
+# Sitemap location
+Sitemap: https://quantumhydratech.co.ke/sitemap.xml
